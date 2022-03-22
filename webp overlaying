@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+<head>
+  <style>
+    .host
+    {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+    .mark
+    {
+      position: absolute;
+      top: 50px;
+      left: 80px;
+    }
+  </style>
+</head>
+<body>
+  <div style="position: absolute; left: 0px; top: 0px;">
+    <img src="file:///C:/Users/User/Downloads/host256.webp" class="host"/>
+    <img src="file:///C:/Users/User/Downloads/mark102.webp" class="mark"/>
+  </div>
+</body>
+</html>
